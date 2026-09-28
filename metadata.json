@@ -1,0 +1,6 @@
+{
+  "name": "کافه و رستری موکا | Mokha Specialty Coffee",
+  "description": "فروشگاه آنلاین دانه‌های قهوه تخصصی، منوی باریستا، درگاه امن پرداخت، پیگیری لحظه‌ای سفارشات و رزرو آنلاین میز با استایل مینیمالیستی سفید و قهوه‌ای",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
